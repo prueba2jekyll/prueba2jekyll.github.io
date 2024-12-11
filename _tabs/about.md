@@ -8,10 +8,9 @@ order: 4
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+
+![imagen](https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
