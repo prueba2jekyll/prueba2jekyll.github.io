@@ -14,6 +14,3 @@ order: 4
 ![imagen](https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-![dd](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
-
-
