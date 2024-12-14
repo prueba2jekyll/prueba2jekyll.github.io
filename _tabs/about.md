@@ -16,7 +16,8 @@ order: 4
 <a href="https://instagram.com/test323" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 
-### Thanks for Visiting my GitHub Profile!
+<h1 align="center"> Gracias por visitar mi readme! </br> 
+</h1>
 
 ![imagen](/assets/github-contribution-grid-snake-dark.svg)
 
