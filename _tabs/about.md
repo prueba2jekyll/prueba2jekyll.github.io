@@ -17,12 +17,20 @@ order: 4
 
 ## Mis Proyectos 👨‍💻
 
-<p>
-  <a href="https://itsvg.in" target="_blank">
-    <img src="https://itsvg.in/favicon.ico" width="16px" alt="Favicon" /> Prueba
-    Vishwa Gaurav - Portfolio
-  </a>, 
-  Crafted with 💛 by <span>Test 4234234242</span>
-</p>
+<div style="text-align: center;">
+  <p>
+    <strong>Vishwa Gaurav - Portfolio</strong>
+  </p>
+  <p>
+    <a href="https://itsvg.in" target="_blank">
+      <img src="https://itsvg.in/favicon.ico" width="16px" alt="Favicon" />
+      https://itsvg.in
+    </a>
+  </p>
+  <p>
+    Crafted with 💛 by <span>Test 4234234242</span>
+  </p>
+</div>
+
 
 
