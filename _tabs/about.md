@@ -17,7 +17,7 @@ order: 4
 
 ## Mis Proyectos 👨‍💻
 
-<img src="https://itsvg.in/favicon.ico" width="16px" alt="Favicon">  ### Portfolio 
+### <img src="https://itsvg.in/favicon.ico" width="16px" alt="Favicon">  Portfolio 
 [Vishwa Gaurav - Portfolio](https://itsvg.in) ,
 </> and Crafted with 💛 by Vishwa Gaurav
 
