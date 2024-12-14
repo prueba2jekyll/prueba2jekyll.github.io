@@ -8,9 +8,6 @@ order: 4
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-
-## Mis redes sociales
-
 <center>
 
 [![Donate](https://img.shields.io/badge/Donate-c7304f?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.ko-fi.com/thezodiacox0)
