@@ -18,7 +18,6 @@ order: 4
 
 <h1 align="center"> Gracias por visitar mi readme! </br> 
 </h1>
-
 ![imagen](/assets/github-contribution-grid-snake-dark.svg)
 
 
