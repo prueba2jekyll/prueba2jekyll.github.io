@@ -10,12 +10,15 @@ order: 4
 <p align="center">Turning imagination into reality 🚀</p>
 
 ## Mis redes sociales
+<center>
+
 [![Donate](https://img.shields.io/badge/Donate-c7304f?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.ko-fi.com/thezodiacox0)
 [![Contacto](https://img.shields.io/badge/Contacto-000?logo=ProtonMail&logoColor=6600d8&style=for-the-badge)](mailto:thezodiacox0.mail@proton.me)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://instagram.com/thezodiacox0)
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge)](https://twitter.com/@TheZodiaco_YT)
 [![Github](https://img.shields.io/badge/Github-000?logo=Github&logoColor=ffffff&style=for-the-badge)](https://github.com/thezodiacox0)
 
+<center>
 ## Mis Proyectos 👨‍💻
 
 ## Mis Estadisticas de GitHub 📊
