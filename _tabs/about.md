@@ -16,16 +16,10 @@ order: 4
 [![Github](https://img.shields.io/badge/Github-000?logo=Github&logoColor=ffffff&style=for-the-badge)](https://github.com/thezodiacox0)
 
 
-## Mis Proyectos 👨‍💻
-
 ## Mis Estadisticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=thezodiacox0&show_icons=true&locale=es)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=thezodiacox0&show_icons=true&locale=es&layout=compact)
-
-### Gracias por visitar mi Readme!
-
-![i](/assets/github-contribution-grid-snake-dark.svg)
 
 
