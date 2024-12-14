@@ -10,6 +10,7 @@ order: 4
 <p align="center">Turning imagination into reality 🚀</p>
 
 ## Mis redes sociales
+
 <center>
 
 [![Donate](https://img.shields.io/badge/Donate-c7304f?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.ko-fi.com/thezodiacox0)
@@ -19,6 +20,7 @@ order: 4
 [![Github](https://img.shields.io/badge/Github-000?logo=Github&logoColor=ffffff&style=for-the-badge)](https://github.com/thezodiacox0)
 
 <center>
+
 ## Mis Proyectos 👨‍💻
 
 ## Mis Estadisticas de GitHub 📊
