@@ -20,7 +20,7 @@ order: 4
 </h1>
 
 <p align="center">
-<img src="/assets/github-contribution-grid-snake-dark.svg">
+<href="/assets/github-contribution-grid-snake-dark.svg">
 </p>
 
 
