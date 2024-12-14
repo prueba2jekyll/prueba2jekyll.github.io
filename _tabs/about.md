@@ -17,7 +17,13 @@ order: 4
 
 ## Mis Proyectos 👨‍💻
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact
+## Mis Estadisticas de GitHub 📊
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezodiacox0&show_icons=true&locale=es" alt="thezodiacox0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezodiacox0&show_icons=true&locale=es&layout=compact" alt="thezodiacox0" /></p>
+
+### Gracias por visitar mi Readme!
+
+![i](/assets/github-contribution-grid-snake-dark.svg)
 
 
