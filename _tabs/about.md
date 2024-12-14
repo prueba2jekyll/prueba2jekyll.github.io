@@ -11,6 +11,6 @@ order: 4
 
 ### Thanks for Visiting my GitHub Profile!
 
-![imagen](https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg)
+![imagen](/assets/github-contribution-grid-snake-dark.svg)
 
 
