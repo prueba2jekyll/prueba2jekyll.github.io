@@ -19,8 +19,9 @@ order: 4
 
 ## Mis Estadisticas de GitHub 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezodiacox0&show_icons=true&locale=es" alt="thezodiacox0" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezodiacox0&show_icons=true&locale=es&layout=compact" alt="thezodiacox0" /></p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=thezodiacox0&show_icons=true&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=thezodiacox0&show_icons=true&locale=es&layout=compact)
 
 ### Gracias por visitar mi Readme!
 
