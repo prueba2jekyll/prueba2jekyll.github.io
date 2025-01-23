@@ -4,14 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<details close>
-<summary>desplegable **test**</summary>
-<br>
+{: file="data/locales/" }
 
 - prueba 1
 - texto **negrita**
 
-</details>
 
 ## Prueba 1
 
