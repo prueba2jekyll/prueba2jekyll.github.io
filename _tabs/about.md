@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-`/path/to/a/`{: .filepath}
-
+Anteriormente habiamos añadido ciertos archivos, ve a `/_data/locales/` {: .filepath} en nuestro repositorio y hay u
 
 - prueba 1
 - texto **negrita**
