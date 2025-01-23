@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-{: file="data/locales/" }
+`/path/to/a/file.extend`{: .filepath}
+
 
 - prueba 1
 - texto **negrita**
