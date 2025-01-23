@@ -4,12 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<details close>
+<summary>desplegable **test**</summary>
+<br>
 
-## 📊 Mis Estadisticas de GitHub
+- prueba 1
+- texto **negrita**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=torrente178&theme=ambient_gradient&show_icons=true&icon_color=b40000&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&locale=es)
-
-![ML](https://github-readme-stats.vercel.app/api/top-langs?username=torrente178&theme=ambient_gradient&show_icons=true&icon_color=b40000&text_color=e5e7ea&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&locale=es)
+</details>
 
 ## Prueba 1
 
