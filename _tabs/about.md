@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-`/path/to/a/file.extend`{: .filepath}
+`/path/to/a/`{: .filepath}
 
 
 - prueba 1
